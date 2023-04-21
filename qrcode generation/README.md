@@ -1,0 +1,1 @@
+[qrcode Package](https://pypi.org/project/qrcode/)
