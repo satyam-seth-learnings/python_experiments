@@ -23,3 +23,9 @@ pipenv run python <script-name>.py
 ```sh
 pipenv shell
 ```
+
+- Deactivate the virtual environment
+
+```sh
+exit
+```
