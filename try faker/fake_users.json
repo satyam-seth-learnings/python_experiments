@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Angela Miranda",
+        "email": "andrehatfield@example.org",
+        "address": "721 Jennifer Vista Apt. 873\nLake Ambermouth, CA 79336",
+        "dob": "1990-10-04",
+        "job": "Chartered public finance accountant",
+        "company": "Riley, Adams and Hawkins",
+        "phone": "+1-747-454-3378x0810"
+    },
+    {
+        "name": "Mary Jackson",
+        "email": "matthewsfrank@example.net",
+        "address": "1824 Williams Harbor\nEast Josephport, PR 20758",
+        "dob": "1997-11-02",
+        "job": "Psychologist, forensic",
+        "company": "Hart LLC",
+        "phone": "659.377.0792x7874"
+    },
+    {
+        "name": "Jennifer Hammond",
+        "email": "calderontodd@example.net",
+        "address": "1294 Melanie Stravenue\nLauramouth, VA 09777",
+        "dob": "1950-02-26",
+        "job": "Nutritional therapist",
+        "company": "Williams LLC",
+        "phone": "6383154719"
+    },
+    {
+        "name": "Tiffany Garcia",
+        "email": "janetclay@example.net",
+        "address": "86293 Brown Knoll Apt. 787\nDominicton, RI 22138",
+        "dob": "2007-10-14",
+        "job": "Dance movement psychotherapist",
+        "company": "Jones, Nguyen and Smith",
+        "phone": "+1-801-723-0665x36484"
+    },
+    {
+        "name": "Sarah Roberson",
+        "email": "duranjoshua@example.com",
+        "address": "164 Kenneth Villages Suite 057\nPort Tracy, MS 40860",
+        "dob": "1944-12-24",
+        "job": "Buyer, retail",
+        "company": "Foster-Patterson",
+        "phone": "+1-972-967-2495x95328"
+    }
+]
